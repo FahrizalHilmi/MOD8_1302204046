@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yXcvY8wOvLmbutW88ziX02qMO2VQx9cdoz1N2xP0GhV6gRkVKrtwUeNBr9+X/OI5q5QrIHBWHYH3qcpzz+wiUg==",
+  "success": true,
+  "projectFilePath": "D:\\KULIAH\\KULIAH SEMESTER 4\\KONTRUKSI PERANGKAT LUNAK\\Modul8_1302204046\\Modul8_1302204046\\Modul8_1302204046\\Modul8_1302204046.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TUF\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\TUF\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TUF\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\TUF\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\TUF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\TUF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
